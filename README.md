@@ -133,4 +133,4 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 </details>
-# GANSTER_IS_GHOULS_KA_BETA
+# GANSTER IS GHOULS KA BETA
