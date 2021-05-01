@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "𝚃𝙷𝙴 GHOULSBOT",
+  "description": "The MafiaBot made by @KING_COBRA_TERABAAP special thanks to respective mafiaBot owner @Kraken_The_BadASS. Join for updates related in @GHOULS_USER_BOT_SUPPORT",
+  "logo": "https://telegra.ph/file/8af96ae4128e766ba6ac7.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/KING-USER1/GHOULS_USERBOT/",
+  "website": "https://github.com/KING-USER1/GHOULS_USERBOT/",
+  "success_url": "https://t.me/KING_COBRA_TERABAAP",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -29,22 +29,22 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈GHOULSBOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/8af96ae4128e766ba6ac7.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO GHOULSBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/8af96ae4128e766ba6ac7.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
