@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/KING-USER1/KINGCOBRA-DRAGON-PLUGINS.git /root/userbot
+RUN git clone https://github.com/KING-USER1/NATORIOUS-REPO.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
